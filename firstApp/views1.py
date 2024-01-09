@@ -11,3 +11,5 @@ def ga_view(request):
 	return HttpResponse('<h1> Good afternoon</h1>')
 def ge_view(request):
 	return HttpResponse('<h1> Good evening</h1>')
+
+print("aaaaaa")
